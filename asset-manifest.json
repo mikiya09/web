@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.a11e3c80.css",
+    "main.js": "/site/static/js/main.8289654f.js",
+    "static/media/happyorsad.jpg": "/site/static/media/happyorsad.a3ed517be9d83bb9e1d5.jpg",
+    "static/media/killerqueen.jpg": "/site/static/media/killerqueen.df8e3d591ad6df6e15a9.jpg",
+    "static/media/cloud.png": "/site/static/media/cloud.48c5761a4ddc93dd4c3d.png",
+    "static/media/moanin.pdf": "/site/static/media/moanin.dcf64d3083cc2521fe47.pdf",
+    "static/media/jellyfish.png": "/site/static/media/jellyfish.9f70c4b6bc1b36d94691.png",
+    "index.html": "/site/index.html",
+    "main.a11e3c80.css.map": "/site/static/css/main.a11e3c80.css.map",
+    "main.8289654f.js.map": "/site/static/js/main.8289654f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11e3c80.css",
+    "static/js/main.8289654f.js"
+  ]
+}
